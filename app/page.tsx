@@ -8,6 +8,7 @@ const page = () => {
         hello
         why this not working
         need to check
+        hello
         </div>
       </div>
     </div>
