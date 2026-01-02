@@ -7,6 +7,7 @@ const page = () => {
         <div className='max-w-1/2'>
         hello
         why this not working
+        need to check
         </div>
       </div>
     </div>
